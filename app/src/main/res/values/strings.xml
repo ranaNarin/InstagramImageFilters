@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Image Filters</string>
+    <string name="activity_title_main">Filters</string>
+    <string name="action_settings">Settings</string>
+    <string name="filters">FILTERS</string>
+    <string name="edit">EDIT</string>
+
+    <string name="lbl_brightness">BRIGHTNESS</string>
+    <string name="lbl_contrast">CONTRAST</string>
+    <string name="lbl_saturation">SATURATION</string>
+    <string name="tab_filters">FILTERS</string>
+    <string name="tab_edit">EDIT</string>
+
+
+    <string name="roboto_medium">sans-serif-medium</string>
+    <string name="filter_normal">Normal</string>
+    <string name="action_save">SAVE</string>
+    <string name="action_open">OPEN</string>
+    <string name="starlit">Starlit</string>
+    <string name="bluemess">BlueMess</string>
+    <string name="struck">Struck</string>
+    <string name="lime">Lime</string>
+    <string name="whisper">Whisper</string>
+    <string name="amazon">Amazon</string>
+    <string name="adele">Adele</string>
+    <string name="cruz">cruz</string>
+    <string name="metropolis">Metropolis</string>
+    <string name="audrey">Audrey</string>
+    <string name="rise">Rise</string>
+    <string name="mars">Mars</string>
+    <string name="april">April</string>
+    <string name="haan">Haan</string>
+    <string name="oldman">OldMan</string>
+    <string name="clarendon">Clarendon</string>
+</resources>
